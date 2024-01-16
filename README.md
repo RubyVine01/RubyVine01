@@ -1,5 +1,9 @@
 # Hi there 👋 
-### I'm trainee fontend developer.
+### I'm Lera - fontend developer.
+
+🌏I love to travel 
+<br> 🕹 Interested in technology
+<br> 🆕 Always learning new things and not afraid to experiment
 
 ## 🌐 Socials:
 <div id="badges" align="start">
@@ -9,10 +13,6 @@
   <a href="https://t.me/vprokofyeva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
-
-<div id="profile-views" align="start">
-  <img src="https://komarev.com/ghpvc/?username=RubyVine01&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## 💻 Tech Stack:
@@ -25,8 +25,16 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![BEM (CSS)](https://img.shields.io/badge/-BEM%20(CSS)-white?style=for-the-badge&logo=bem&logoColor=black)
 ![VSC](https://img.shields.io/badge/-VSCode-cccccc?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-E6E6FA?style=for-the-badge&logo=Figma&logoColor=8B0000)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
+## 📊 GitHub Stats:
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=RubyVine01&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyVine01&show_icons=true&locale=en&layout=compact&theme=aura" alt="asilisa" /></p>
