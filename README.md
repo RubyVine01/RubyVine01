@@ -39,8 +39,4 @@
 
 ## 📊 GitHub Stats:
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=RubyVine01&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyVine01&show_icons=true&locale=en&layout=compact&theme=aura" alt="asilisa" /></p>
